@@ -1,0 +1,1 @@
+console.log("Safetrade frontend loaded.");
